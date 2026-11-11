@@ -1,0 +1,13 @@
+site_id,name,lat,lon,kind
+S01,SAMPLE site 01 (made up),41.8781,-87.6298,bench
+S02,SAMPLE site 02 (made up),41.7943,-87.5917,bench
+S03,SAMPLE site 03 (made up),41.9214,-87.6475,fountain
+S04,SAMPLE site 04 (made up),41.8565,-87.6604,bench
+S05,SAMPLE site 05 (made up),41.9234,-87.7076,fountain
+S06,SAMPLE site 06 (made up),41.8949,-87.7645,bench
+S07,SAMPLE site 07 (made up),41.7408,-87.6145,bench
+S08,SAMPLE site 08 (made up),42.0106,-87.6689,fountain
+S09,SAMPLE site 09 (made up),41.9578,-87.7653,bench
+S10,SAMPLE site 10 (made up),41.8317,-87.6732,fountain
+S11,SAMPLE site 11 (made up),41.6928,-87.6240,bench
+S12,SAMPLE site 12 (made up),41.7934,-87.7720,bench

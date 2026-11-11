@@ -1,0 +1,197 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6298,
+     41.8781
+    ]
+   },
+   "properties": {
+    "site_id": "S01",
+    "name": "SAMPLE site 01 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.5917,
+     41.7943
+    ]
+   },
+   "properties": {
+    "site_id": "S02",
+    "name": "SAMPLE site 02 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6475,
+     41.9214
+    ]
+   },
+   "properties": {
+    "site_id": "S03",
+    "name": "SAMPLE site 03 (made up)",
+    "kind": "fountain",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6604,
+     41.8565
+    ]
+   },
+   "properties": {
+    "site_id": "S04",
+    "name": "SAMPLE site 04 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.7076,
+     41.9234
+    ]
+   },
+   "properties": {
+    "site_id": "S05",
+    "name": "SAMPLE site 05 (made up)",
+    "kind": "fountain",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.7645,
+     41.8949
+    ]
+   },
+   "properties": {
+    "site_id": "S06",
+    "name": "SAMPLE site 06 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6145,
+     41.7408
+    ]
+   },
+   "properties": {
+    "site_id": "S07",
+    "name": "SAMPLE site 07 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6689,
+     42.0106
+    ]
+   },
+   "properties": {
+    "site_id": "S08",
+    "name": "SAMPLE site 08 (made up)",
+    "kind": "fountain",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.7653,
+     41.9578
+    ]
+   },
+   "properties": {
+    "site_id": "S09",
+    "name": "SAMPLE site 09 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6732,
+     41.8317
+    ]
+   },
+   "properties": {
+    "site_id": "S10",
+    "name": "SAMPLE site 10 (made up)",
+    "kind": "fountain",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.624,
+     41.6928
+    ]
+   },
+   "properties": {
+    "site_id": "S11",
+    "name": "SAMPLE site 11 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.772,
+     41.7934
+    ]
+   },
+   "properties": {
+    "site_id": "S12",
+    "name": "SAMPLE site 12 (made up)",
+    "kind": "bench",
+    "sample": true
+   }
+  }
+ ]
+}

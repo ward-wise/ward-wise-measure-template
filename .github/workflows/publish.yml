@@ -1,0 +1,11 @@
+name: publish measure
+on:
+  push:
+    tags: ["v*"]
+jobs:
+  publish:
+    uses: HarryBrisson/ward-wise-measures/.github/workflows/publish-measure.yml@main
+    with:
+      layers_dir: data/layers
+    permissions:
+      contents: write

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Credentials never go in this repo. Read keys from the environment.
+.env
+creds.json

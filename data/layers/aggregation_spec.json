@@ -1,0 +1,31 @@
+{
+  "contract": "byop/v1",
+  "source": "measure-template",
+  "source_url": "https://github.com/ward-wise/ward-wise-measure-template",
+  "synthetic_estimate": false,
+  "caveat": "TEMPLATE: the 12 points in sample_sites.geojson are made up. Replace them, and every text field below, before publishing.",
+  "layers": {
+    "sample_sites": {
+      "file": "sample_sites.geojson",
+      "kind": "points",
+      "as_of": "2026-11-10",
+      "value": "one made-up sample site (a bench or a drinking fountain); replace with one real thing your measure counts"
+    }
+  },
+  "metrics": {
+    "sample_sites_per_sqkm": {
+      "layer": "sample_sites",
+      "combine": "count",
+      "per": "area_km2",
+      "unit": "rate",
+      "direction": "higher",
+      "label": "Sample Sites",
+      "description": "How many sample sites there are per square kilometre: replace with one sentence a resident understands.",
+      "methodology": "TEMPLATE: 12 made-up points, not real places. Say where your data comes from, the date you pulled it, and how you cleaned it, in 1 to 3 sentences.",
+      "category": "physical_environment",
+      "default_weight": 0,
+      "keywords": "sample example template",
+      "nominator": {"name": "Your Name", "ward_id": "12"}
+    }
+  }
+}

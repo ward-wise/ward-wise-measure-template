@@ -1,0 +1,13 @@
+# Runs the same check Penlight's registry runs, on every push and pull request, so a broken spec
+# shows up here before you tag a release.
+name: validate measure
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install "git+https://github.com/HarryBrisson/ward-wise-measures"
+      - run: byop validate data/layers
